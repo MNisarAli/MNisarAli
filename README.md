@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I,m Muhammad Nisar Ali
+- 🔭 An aspiring Full-Stack Web Developer.
 
-# I,m M Nisar Ali
-
-- 🔭 I’m an aspiring Full-stack Web Developer.
-- 🌱 I’m currently learning **Web Developement**.
+- 👩‍💻 Passionate about learning languages, frameworks, and new technologies. I enjoy designing websites and bringing them to life using various technologies.
+- 🌱 I’am currently learning **Full-Stack Web Development** at [Microverse](https://github.com/microverseinc).
