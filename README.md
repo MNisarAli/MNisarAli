@@ -44,6 +44,13 @@ const muhammadNisarAli = {
 ### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
 <!--START_SECTION:waka-->
+
+```text
+Markdown   31 mins         ███████████████████▒░░░░░   76.74 %
+YAML       9 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+```
+
 <!--END_SECTION:waka-->
 
 ### My GitHub Stats
