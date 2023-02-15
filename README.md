@@ -46,11 +46,11 @@ const muhammadNisarAli = {
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   17 hrs 59 mins  ██████████████████▓░░░░░░   75.13 %
-CSS          3 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
-Markdown     1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-JSON         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JavaScript   17 hrs 34 mins  ███████████████████░░░░░░   75.70 %
+CSS          3 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
+Markdown     1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+JSON         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
