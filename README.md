@@ -17,8 +17,8 @@
 const muhammadNisarAli = {
   lookingFor: "Front-end developer",
   pronouns: ["he", "him"],
-  codeIn: [JavaScript, HTML/CSS, Semantic UI, Bootstrap],
-  currentChallenge: "I am honing my JavaScript skills, learning React",
+  codeIn: [JavaScript, React, Redux, HTML/CSS, Bootstrap],
+  currentChallenge: "I am honing my JavaScript & React skills, learning Ruby",
   passion: ["learning languages, frameworks, and new technologies",
   "I enjoy designing websites and bringing them to life using various technologies"],
   funFact: "Proud to be father of three little Fairies"
@@ -37,6 +37,8 @@ const muhammadNisarAli = {
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" width="36" height="36" alt="GitHub" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="36" height="36"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/> </a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="36" height="36"/> </a>
 </p>
 
 
