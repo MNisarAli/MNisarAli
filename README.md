@@ -11,6 +11,9 @@
 <!-- Profile View Counter -->
 ![](https://komarev.com/ghpvc/?username=MNisarAli&label=Profile+Views)
 
+<!-- Code time badge -->
+[![wakatime](https://wakatime.com/badge/user/0e1f3c03-0112-470c-bb53-99cc16368b7f.svg)](https://wakatime.com/@0e1f3c03-0112-470c-bb53-99cc16368b7f)
+
 ### A little more about me...  
 
 ```javascript
