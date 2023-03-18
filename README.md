@@ -1,7 +1,7 @@
 
 ## Hi 👋, I,m Muhammad Nisar Ali!
 
-<img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200">
+<img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300">
 <p><em>An aspiring Full-Stack Web Developer ready for adventure</em> <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 
@@ -61,9 +61,18 @@ Ruby         2 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### My GitHub Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnisarali&show_icons=true&locale=en" alt="mnisarali" /></p>
-
-| <a href="http://www.github.com/MNisarAli"><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=MNisarAli&stroke=000&background=ffffff&ring=2177e9&fire=2177e9&currStreakNum=000&currStreakLabel=2177e9&sideNums=000&sideLabels=000&dates=000&hide_border=true" /></a> | <a href="https://github.com/MNisarAli" align="left"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNisarAli&langs_count=10&title_color=2177e9&text_color=000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> |
-| ------------- | ------------- |
+### 📊 My GitHub Stats!
+<div>
+  <p align="center">
+    <a href="https://github.com/MNisarAli">
+      <img width="48.2%" src="https://github-readme-stats.vercel.app/api?username=MNisarAli&show_icons=true&count_private=true&border_radius=5" alt="mnisarali" />
+      <img width="50.8%" src="https://github-readme-streak-stats.herokuapp.com?user=MNisarAli&stroke=000&ring=2177e9&fire=2177e9&currStreakNum=000&currStreakLabel=2177e9&sideNums=000&sideLabels=000&dates=000&border_radius=5" alt="Streak Stats" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/MNisarAli">
+      <img width="42.52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNisarAli&langs_count=4&layout=compact&border_color=f8f8f8&border_radius=5" alt="Top Languages" />
+      <img width="56.4%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MNisarAli&bg_color=fff&color=000&line=2177e9&radius=10" alt="Activity Graph" />
+    </a>
+  </p>
+</div>
