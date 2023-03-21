@@ -1,17 +1,15 @@
 
 ## Hi 👋, I,m Muhammad Nisar Ali!
 
-<img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300">
+<img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="270">
 <p><em>An aspiring Full-Stack Web Developer ready for adventure</em> <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 
 <!-- Social -->
 [![Linkedin Badge](https://img.shields.io/badge/-Muhammad%20Nisar%20Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-nisar-ali/)](https://www.linkedin.com/in/muhammad-nisar-ali/)
-
 <!-- Profile View Counter -->
-![](https://komarev.com/ghpvc/?username=MNisarAli&label=Profile+Views)
-
-<!-- Code time badge -->
+![](https://komarev.com/ghpvc/?username=MNisarAli&label=Profile+Views) <!-- Top Committers Badge -->
+[![](https://user-badge.committers.top/pakistan/MNisarAli.svg)](https://user-badge.committers.top/pakistan/MNisarAli) <!-- Code Time Badge -->
 [![wakatime](https://wakatime.com/badge/user/0e1f3c03-0112-470c-bb53-99cc16368b7f.svg)](https://wakatime.com/@0e1f3c03-0112-470c-bb53-99cc16368b7f)
 
 ### A little more about me...  
