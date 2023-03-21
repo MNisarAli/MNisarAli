@@ -1,7 +1,7 @@
 
 ## Hi 👋, I,m Muhammad Nisar Ali!
 
-<img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="270">
+<img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260">
 <p><em>An aspiring Full-Stack Web Developer ready for adventure</em> <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 
