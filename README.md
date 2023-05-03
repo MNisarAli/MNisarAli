@@ -51,10 +51,10 @@ const muhammadNisarAli = {
 <!--START_SECTION:waka-->
 
 ```text
-Ruby       4 hrs 12 mins   ██████████████████████▓░░   90.30 %
-Markdown   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-YAML       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Ruby       5 hrs 31 mins   ██████████████████████▓░░   91.16 %
+Markdown   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+YAML       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
