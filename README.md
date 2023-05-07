@@ -51,8 +51,7 @@ const muhammadNisarAli = {
 <!--START_SECTION:waka-->
 
 ```text
-Ruby   1 hr 19 mins    ████████████████████████▓   98.63 %
-YAML   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
