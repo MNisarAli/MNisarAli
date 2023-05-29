@@ -51,7 +51,9 @@ const muhammadNisarAli = {
 <!--START_SECTION:waka-->
 
 ```text
-CSS   6 mins          █████████████████████████   100.00 %
+CSS    46 mins         ███████████████░░░░░░░░░░   60.47 %
+HTML   25 mins         ████████▒░░░░░░░░░░░░░░░░   32.98 %
+Git    5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
 ```
 
 <!--END_SECTION:waka-->
