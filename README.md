@@ -50,7 +50,7 @@ const muhammadNisarAli = {
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 CSS          54 mins         ███████████████░░░░░░░░░░   59.50 %
 HTML         25 mins         ███████░░░░░░░░░░░░░░░░░░   28.22 %
 JSON         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
