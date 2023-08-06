@@ -70,7 +70,7 @@ Ruby    0 secs          ▒░░░░░░░░░░░░░░░░░�
   <p align="center">
     <a href="https://github.com/MNisarAli">
       <img width="42.52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNisarAli&langs_count=5&layout=compact&border_color=f8f8f8&border_radius=5" alt="Top Languages" />
-      <img width="56.4%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MNisarAli&bg_color=fff&color=000&line=2177e9&radius=10" alt="Activity Graph" />
+<!--       <img width="56.4%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MNisarAli&bg_color=fff&color=000&line=2177e9&radius=10" alt="Activity Graph" /> -->
     </a>
   </p>
 </div>
