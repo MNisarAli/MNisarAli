@@ -2,7 +2,7 @@
 ## Hi 👋, I,m Muhammad Nisar Ali!
 
 <img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="310">
-<p><em>An aspiring Full-Stack Web Developer ready for adventure</em> <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<p><em>A Full-Stack Web Developer ready for adventure</em> <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 
 <!-- Social -->
@@ -21,10 +21,10 @@ const muhammadNisarAli = {
   lookingFor: "Front-end developer",
   pronouns: ["he", "him"],
   codeIn: [JavaScript, React, Redux, HTML/CSS, Bootstrap],
-  currentChallenge: "I am honing my JavaScript & React skills, learning Ruby",
+  currentChallenge: "I am honing my JavaScript & React skills, learning Ruby & Rails",
   passion: ["learning languages, frameworks, and new technologies",
   "I enjoy designing websites and bringing them to life using various technologies"],
-  funFact: "Proud to be father of three little Fairies"
+  funFact: "Proud to be the father of three little Fairies"
 }
 ```
 
