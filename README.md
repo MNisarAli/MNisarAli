@@ -20,7 +20,7 @@
 const muhammadNisarAli = {
   lookingFor: "Front-end developer",
   pronouns: ["he", "him"],
-  codeIn: [JavaScript, React, Redux, HTML/CSS, Bootstrap],
+  codeIn: [JavaScript, React, Redux, HTML/CSS, Bootstrap, Ruby],
   currentChallenge: "I am honing my JavaScript & React skills, learning Ruby & Rails",
   passion: ["learning languages, frameworks, and new technologies",
   "I enjoy designing websites and bringing them to life using various technologies"],
