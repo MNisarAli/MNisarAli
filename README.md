@@ -53,8 +53,7 @@ const muhammadNisarAli = {
 <!--START_SECTION:waka-->
 
 ```txt
-Other        40 mins         █████████████████████▓░░░   86.04 %
-JavaScript   6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
