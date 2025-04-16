@@ -8,8 +8,6 @@
 <!-- Social -->
 [![Linkedin Badge](https://img.shields.io/badge/-Muhammad%20Nisar%20Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-nisar-ali/)](https://www.linkedin.com/in/muhammad-nisar-ali/)
 
-<!-- Top Committers Badge -->
-![badge](https://aktive.tk/pakistan/MNisarAli?label=Most%20Active%20GitHub%20User%20In%20Pakistan%20Rank&color=blue) 
 
 <!-- Profile View Counter & Code Time Badge -->
 ![](https://komarev.com/ghpvc/?username=MNisarAli&label=Profile+Views) [![wakatime](https://wakatime.com/badge/user/0e1f3c03-0112-470c-bb53-99cc16368b7f.svg)](https://wakatime.com/@0e1f3c03-0112-470c-bb53-99cc16368b7f)
